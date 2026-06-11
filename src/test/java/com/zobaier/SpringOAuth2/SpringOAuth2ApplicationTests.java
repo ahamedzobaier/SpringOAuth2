@@ -1,10 +1,10 @@
-package com.zobaier.SpringOath2;
+package com.zobaier.SpringOAuth2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringOath2ApplicationTests {
+class SpringOAuth2ApplicationTests {
 
 	@Test
 	void contextLoads() {
